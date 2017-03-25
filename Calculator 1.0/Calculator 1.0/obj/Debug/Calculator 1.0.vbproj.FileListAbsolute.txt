@@ -1,0 +1,10 @@
+c:\users\abhis\documents\visual studio 2012\Projects\Calculator 1.0\Calculator 1.0\bin\Debug\Calculator 1.0.exe.config
+C:\Users\abhis\Documents\Visual Studio 2012\Projects\Calculator 1.0\Calculator 1.0\bin\Debug\Calculator 1.0.exe
+C:\Users\abhis\Documents\Visual Studio 2012\Projects\Calculator 1.0\Calculator 1.0\bin\Debug\Calculator 1.0.pdb
+C:\Users\abhis\Documents\Visual Studio 2012\Projects\Calculator 1.0\Calculator 1.0\bin\Debug\Calculator 1.0.xml
+C:\Users\abhis\Documents\Visual Studio 2012\Projects\Calculator 1.0\Calculator 1.0\obj\Debug\Calculator_1._0.Form1.resources
+C:\Users\abhis\Documents\Visual Studio 2012\Projects\Calculator 1.0\Calculator 1.0\obj\Debug\Calculator_1._0.Resources.resources
+C:\Users\abhis\Documents\Visual Studio 2012\Projects\Calculator 1.0\Calculator 1.0\obj\Debug\Calculator 1.0.vbproj.GenerateResource.Cache
+C:\Users\abhis\Documents\Visual Studio 2012\Projects\Calculator 1.0\Calculator 1.0\obj\Debug\Calculator 1.0.exe
+C:\Users\abhis\Documents\Visual Studio 2012\Projects\Calculator 1.0\Calculator 1.0\obj\Debug\Calculator 1.0.xml
+C:\Users\abhis\Documents\Visual Studio 2012\Projects\Calculator 1.0\Calculator 1.0\obj\Debug\Calculator 1.0.pdb
